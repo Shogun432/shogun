@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me :)
 Create a modern, clean, and professional GitHub profile README for a 4th semester Engineering student specializing in Artificial Intelligence and Machine Learning.<br><br>About me:<br>- I love learning new technologies.<br>- Interested in cybersecurity, ethical hacking, and emerging tech.<br>- Currently exploring AI/ML fundamentals.<br>- Beginner but highly motivated to grow.<br>- Interested in trading and financial markets.<br>- Passionate about building practical projects.<br>- Open to collaboration and internships
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_all_ok_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:okal6511@gmail.com) 
